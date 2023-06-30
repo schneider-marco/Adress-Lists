@@ -1,3 +1,3 @@
-# Adress-Lists
+# Address-Lists
 
-Lists of usefull IP-Adresses
+Usefull IPv4-Address Lists
