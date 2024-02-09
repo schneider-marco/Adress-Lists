@@ -20,10 +20,3 @@ To contribute to this list, please follow these guidelines:
 Please make sure the information you provide is accurate and up-to-date. If possible, include the source or reference from where the IPv4 address was obtained.
 
 ## Example Format
-
-```markdown
-### Service Name
-
-- **Description**: Brief description of the service.
-- **IPv4 Address**: Insert the IPv4 address here.
-- **Source**: Provide a source or reference for the IPv4 address (if available).
